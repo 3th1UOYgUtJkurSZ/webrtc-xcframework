@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.visionos.deployment_target = "26.0"
 
   spec.source = {
-    :http => "https://github.com/livekit/webrtc-xcframework/releases/download/144.7559.04/LiveKitWebRTC.xcframework.zip"
+    :http => "https://github.com/chative/webrtc-xcframework/releases/download/144.7559.04/LiveKitWebRTC.xcframework.zip"
   }
   spec.vendored_frameworks = "LiveKitWebRTC.xcframework"
 

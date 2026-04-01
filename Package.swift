@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LiveKitWebRTC",
-            url: "https://github.com/livekit/webrtc-xcframework/releases/download/144.7559.04/LiveKitWebRTC.xcframework.zip",
+            url: "https://github.com/chative/webrtc-xcframework/releases/download/144.7559.04/LiveKitWebRTC.xcframework.zip",
             checksum: "bdd657c468dd74001b0d3ac937f56f1f36eaa777cc7c5390e6b8b58c6fce9379"
         ),
     ]
